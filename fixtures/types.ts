@@ -1,0 +1,1 @@
+export type Validation = "valid" | "not valid";
